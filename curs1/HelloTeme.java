@@ -1,0 +1,5 @@
+public class HelloTeme{
+	public static void main(String args[]){
+	System.out.println("Write an application that writes Hello World to console.");
+	}
+}

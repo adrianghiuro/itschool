@@ -1,0 +1,37 @@
+class Application{
+	pvsm(string ... args[]){
+
+	}
+
+	pblic static application/void oriceNUme(int nume, double d){
+	return new Application(); / null
+
+	}
+}
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+ * literari = caractere pe care le folosim sa declaram variabile.
+
+
+
+Operatori unari
+(Unary Operators)
+
+a=+1/ a=-1
+
+
+
+Control Statements: IF
+syntax 
+
+
+if(true){
+	
+}
